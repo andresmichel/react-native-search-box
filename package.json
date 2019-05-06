@@ -1,0 +1,14 @@
+{
+  "name": "react-native-search-box",
+  "version": "0.1.0",
+  "description": "React Native Search Box",
+  "main": "index.js",
+  "repository": "https://github.com/andresmichel/react-native-search-box",
+  "author": "Andres Michel",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-native-input": "https://github.com/andresmichel/react-native-input",
+    "react-native-vector-icons": "^6.4.2"
+  }
+}
