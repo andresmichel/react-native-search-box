@@ -1,4 +1,4 @@
-# react-native-search-box
+# react-native-search-box-ui
 
 ## Getting Started
 
@@ -8,7 +8,7 @@
 ### Installation
 
 ```bash
-$ npm install react-native-search-box
+$ npm install react-native-search-box-ui
 ```
 
 ### Properties
