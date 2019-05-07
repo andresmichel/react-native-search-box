@@ -8,7 +8,7 @@
 ### Installation
 
 ```bash
-$ yarn add https://github.com/andresmichel/react-native-search-box
+$ npm install react-native-search-box
 ```
 
 ### Properties
