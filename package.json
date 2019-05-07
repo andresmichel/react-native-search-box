@@ -1,5 +1,5 @@
 {
-  "name": "react-native-search-box",
+  "name": "react-native-search-box-ui",
   "version": "0.1.0",
   "description": "React Native Search Box",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "search",
     "box"
   ],
-  "repository": "https://github.com/andresmichel/react-native-search-box",
+  "repository": "https://github.com/andresmichel/react-native-search-box-ui",
   "author": "Andres Michel",
   "license": "MIT",
   "dependencies": {
